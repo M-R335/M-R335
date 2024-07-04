@@ -10,7 +10,7 @@ With approximately a decade immersed in the coding realm and boasting five years
 * 🖥️  See my portfolio at [Upgrading my Portfolio(will 403)](http://PortfolioOTW.com)
 * ✉️  You can contact me at [rodriguezmark321@outlook.com](mailto:rodriguezmark321@outlook.com)
 * 🚀  I'm currently working on [Angular App](http://AlmostDone.com)
-* 🧠  I'm learning to get good at Three.js
+* 🧠  I'm learning to be proficient in Kubernetes 
 
 ### Skills
 
