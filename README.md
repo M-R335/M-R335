@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Full Stack
 -----------------------------
 
-With approximately a decade immersed in the coding realm and boasting five years of professional experience, I have honed my skills within various domains. My passion gravitates towards personal projects, particularly those centered around Fullstack developement, Automation and game design exploits. Continuously striving for mastery, I am committed to enhancing my abilities across the full stack spectrum. I'm committed to showcasing my projects here as a testament to my ongoing growth and exploration within the field.
+With approximately a decade immersed in the coding realm and boasting years of professional experience, I have honed my skills within various domains. My passion gravitates towards personal projects, particularly those centered around Fullstack developement, Automation and game design exploits. Continuously striving for mastery, I am committed to enhancing my abilities across the full stack spectrum. I'm committed to showcasing my projects here as a testament to my ongoing growth and exploration within the field.
 
 * 🌍  I'm based in Arlington, VA
 * 🖥️  See my portfolio at [Upgrading my Portfolio(will 403)](http://PortfolioOTW.com)
